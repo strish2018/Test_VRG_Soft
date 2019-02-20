@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test_VRG_Soft</string>
+    <string name="tab_text_1">Most emailed</string>
+    <string name="tab_text_2">Most shared</string>
+    <string name="tab_text_3">Most viewed</string>
+    <string name="tab_text_4">Favorites</string>
+    <string name="title">Title</string>
+    <string name="byline">Byline</string>
+    <string name="caption">Caption</string>
+    <string name="abstract_text">Abstract</string>
+    <string name="date">Date</string>
+</resources>
